@@ -11,7 +11,7 @@
     "npm:@yandy0725/pi-vision-tools",
     "npm:@yandy0725/pi-superpowers"
   ],
-  "lastChangelogVersion": "0.80.10",
+  "lastChangelogVersion": "0.82.1",
   "theme": "catppuccin-mocha",
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-pro",
