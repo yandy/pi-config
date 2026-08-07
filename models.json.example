@@ -60,24 +60,14 @@
       "apiKey": "${ALIYUN_API_KEY}",
       "models": [
         {
-          "id": "qwen3.7-max",
-          "name": "qwen3.7 max",
+          "id": "qwen3.8-max",
+          "name": "qwen3.8 max",
           "input": ["text", "image"],
           "reasoning": true,
           "thinkingLevelMap": { "xhigh": "max" },
           "contextWindow": 1048576,
           "maxTokens": 65536,
-          "cost": { "input": 12, "output": 36, "cacheRead": 2.4, "cacheWrite": 12 }
-        },
-        {
-          "id": "qwen3.7-plus",
-          "name": "qwen3.7 plus",
-          "input": ["text", "image"],
-          "reasoning": true,
-          "thinkingLevelMap": { "xhigh": "max" },
-          "contextWindow": 1048576,
-          "maxTokens": 65536,
-          "cost": { "input": 2, "output": 8, "cacheRead": 0.4, "cacheWrite": 2 }
+          "cost": { "input": 12, "output": 36, "cacheRead": 1.5, "cacheWrite": 12 }
         }
       ]
     },
