@@ -12,7 +12,7 @@
 ## For Model Selection
 - cheap model: `deepseek/deepseek-v4-flash`
 - standard model:  `deepseek/deepseek-v4-pro`
-- most capable model: `tencent/glm-5.2`
+- most capable model: `deepseek/deepseek-v4-pro`
 
 # 经验教训集合
 
