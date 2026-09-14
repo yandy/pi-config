@@ -33,24 +33,14 @@
       "apiKey": "${DEEPSEEK_API_KEY}",
       "models": [
         {
-          "id": "deepseek-v4-flash",
-          "name": "DeepSeek V4 Flash",
+          "id": "deepseek-flash",
+          "name": "DeepSeek Flash",
           "reasoning": true,
           "thinkingLevelMap": { "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max"},
           "contextWindow": 1000000,
           "maxTokens": 384000,
           "input": ["text"],
-          "cost": { "input": 1, "output": 2, "cacheRead": 0.02, "cacheWrite": 0 }
-        },
-        {
-          "id": "deepseek-v4-pro",
-          "name": "DeepSeek V4 Pro",
-          "reasoning": true,
-          "thinkingLevelMap": { "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max"},
-          "contextWindow": 1000000,
-          "maxTokens": 384000,
-          "input": ["text"],
-          "cost": { "input": 3, "output": 6, "cacheRead": 0.025, "cacheWrite": 0 }
+          "cost": { "input": 2, "output": 8, "cacheRead": 0.04, "cacheWrite": 0 }
         }
       ]
     },
