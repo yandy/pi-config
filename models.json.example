@@ -39,7 +39,7 @@
           "thinkingLevelMap": { "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max"},
           "contextWindow": 1000000,
           "maxTokens": 384000,
-          "input": ["text"],
+          "input": ["text", "image"],
           "cost": { "input": 2, "output": 8, "cacheRead": 0.04, "cacheWrite": 0 }
         }
       ]
