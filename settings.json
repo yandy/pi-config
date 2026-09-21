@@ -1,6 +1,5 @@
 {
   "packages": [
-    "git:https://github.com/hasit/pi-community-themes",
     "npm:@yandy0725/pi-subagents",
     "npm:@yandy0725/pi-permission-system",
     "npm:@yandy0725/pi-web-tools",
@@ -8,8 +7,7 @@
     "npm:@yandy0725/pi-todo",
     "npm:@yandy0725/pi-ask-user",
     "npm:@yandy0725/pi-memory",
-    "npm:@yandy0725/pi-vision-tools",
-    "npm:@yandy0725/pi-superpowers"
+    "npm:@yandy0725/pi-vision-tools"
   ],
   "lastChangelogVersion": "0.85.1",
   "theme": "catppuccin-mocha",

@@ -10,9 +10,9 @@
 进行代码探索时，优先使用 `ast-grep` / `lsp` 相关工具，次选 `grep` / `find` / `ls`
 
 ## For Model Selection
-- cheap model: `deepseek/deepseek-flash`
-- standard model:  `deepseek/deepseek-flash`
-- most capable model: `tencent/glm-5.3`
+- cheap model: `deepseek-flash`
+- standard model:  `deepseek-flash`
+- most capable model: `qwen3.8-max`
 
 # 经验教训集合
 

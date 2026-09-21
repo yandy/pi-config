@@ -7,29 +7,7 @@
 npm install -g @earendil-works/pi-coding-agent
 
 # clone config
-git clone https://github.com/yandy/picode.git ~/.pi/agent-code
-```
-
-### add `picode`
-
-**fish**
-
-`~/.config/fish/conf.d/pi.fish`
-
-```fish
-function picode
-  env PI_CODING_AGENT_DIR=$HOME/.pi/agent-code pi $argv
-end
-```
-
-**bash**
-
-`~/.bashrc`
-
-```fish
-picode() {
-  PI_CODING_AGENT_DIR="$HOME/.pi/agent-code" pi "$@"
-}
+git clone https://github.com/yandy/pi-config.git ~/.pi/agent
 ```
 
 ## 2. Skills Management
