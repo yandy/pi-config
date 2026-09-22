@@ -45,8 +45,8 @@
       ]
     },
     "aliyun": {
-      "baseUrl": "https://${ALIYUN_WORKSPACE_ID}.cn-beijing.maas.aliyuncs.com/apps/anthropic",
-      "api": "anthropic-messages",
+      "baseUrl": "https://${ALIYUN_WORKSPACE_ID}.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+      "api": "openai-responses",
       "apiKey": "${ALIYUN_API_KEY}",
       "models": [
         {
@@ -57,7 +57,7 @@
           "thinkingLevelMap": { "xhigh": "max" },
           "contextWindow": 1048576,
           "maxTokens": 65536,
-          "cost": { "input": 12, "output": 36, "cacheRead": 1.5, "cacheWrite": 12 }
+          "cost": { "input": 12, "output": 36, "cacheRead": 1.5, "cacheWrite": 0 }
         }
       ]
     },
