@@ -40,12 +40,6 @@ npx skills ls -a pi
 
 ### 2.5 Current skills
 
-- skill-creator
-
-```sh
-# npx skills add anthropics/skills --skill skill-creator -a pi -y
-```
-
 - office
 
 ```sh
