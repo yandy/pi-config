@@ -52,13 +52,6 @@ npx skills ls -a pi
 # npx skills add anthropics/skills --skill pdf -a pi -y
 ```
 
-- ui/ux
-
-```sh
-# npx skills add nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max -a pi -y
-# npx skills add alchaincyf/huashu-design --skill huashu-design -a pi -y
-```
-
 - browser automation
 
 ```sh
