@@ -7,7 +7,6 @@
     "npm:@yandy0725/pi-coding-tools",
     "npm:@yandy0725/pi-todo",
     "npm:@yandy0725/pi-ask-user",
-    "npm:@yandy0725/pi-memory",
     "npm:@yandy0725/pi-vision-tools"
   ],
   "lastChangelogVersion": "0.87.1",
