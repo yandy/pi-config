@@ -1,5 +1,4 @@
 {
-  "enabled": true,
   "memoryDir": "~/.pi/memory",
   "defaults": {
     "model": "deepseek/deepseek-flash"
