@@ -1,11 +1,11 @@
 {
   "version": 1,
   "skills": {
-    "huashu-design": {
-      "source": "alchaincyf/huashu-design",
+    "find-docs": {
+      "source": "upstash/context7",
       "sourceType": "github",
-      "skillPath": "SKILL.md",
-      "computedHash": "2d1d204d4508add50cefdb405ecfbc1920f31d2272718eadecf286e558fe178d"
+      "skillPath": "skills/find-docs/SKILL.md",
+      "computedHash": "93ec2d2786d7e83973252383875c4f345a2ee7cbbd08a1ab38e5201b214640ee"
     },
     "pdf": {
       "source": "anthropics/skills",
@@ -18,12 +18,6 @@
       "sourceType": "github",
       "skillPath": "skills/playwright-cli/SKILL.md",
       "computedHash": "32cf6cf8733ae75ae41f5241347bca74459629f90bcfbd4e25540ede5d4b8f95"
-    },
-    "ui-ux-pro-max": {
-      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "sourceType": "github",
-      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
-      "computedHash": "a2d7eab9fd29c7685e10dc0d9acca085e32e817b59b6914c0c1be28a56062fbc"
     }
   }
 }

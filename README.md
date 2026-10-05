@@ -58,5 +58,5 @@ playwright install chromium firefox
 
 ```sh
 npx ctx7 login
-# npx ctx7 setup --pi
+# npx skills add upstash/context7 --skill find-docs -a pi -y
 ```
