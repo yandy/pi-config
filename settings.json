@@ -10,7 +10,7 @@
     "npm:@yandy0725/pi-vision-tools",
     "npm:@yandy0725/pi-memory"
   ],
-  "lastChangelogVersion": "1.0.2",
+  "lastChangelogVersion": "1.0.4",
   "theme": "catppuccin-mocha",
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-flash",
