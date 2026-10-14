@@ -1,0 +1,10 @@
+{
+  "extraWritableDirs": [
+    "~/.cache/uv",
+    "~/.local/share/pnpm/store",
+    "~/.cache/pnpm",
+    "~/.npm",
+    "~/.cache/pip",
+    "~/.cache/huggingface"
+  ]
+}
