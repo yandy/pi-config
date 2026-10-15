@@ -5,6 +5,8 @@
     "~/.cache/pnpm",
     "~/.npm",
     "~/.cache/pip",
+    "~/.cache/ms-playwright",
+    "~/.cache/cadgen",
     "~/.cache/huggingface"
   ]
 }
