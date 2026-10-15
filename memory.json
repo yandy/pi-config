@@ -1,6 +1,6 @@
 {
   "memoryDir": "~/.pi/memory",
   "defaults": {
-    "model": "deepseek/deepseek-flash"
+    "model": "qwen3.8-flash"
   }
 }
