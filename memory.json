@@ -1,6 +1,8 @@
 {
-  "memoryDir": "~/.pi/memory",
   "defaults": {
     "model": "qwen3.8-flash"
+  },
+  "autoSurfacing": {
+    "model": "deepseek/deepseek-flash"
   }
 }
