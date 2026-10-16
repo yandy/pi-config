@@ -1,4 +1,9 @@
 {
   "maxConcurrent": 16,
-  "graceTurns": 16
+  "graceTurns": 16,
+  "modelTiers": {
+    "fast": "deepseek-flash",
+    "standard": "deepseek-flash",
+    "advanced": "qwen3.8-max"
+  }
 }
