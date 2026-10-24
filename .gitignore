@@ -2,4 +2,5 @@ auth.json
 trust.json
 models.json
 models-store.json
+sandbox-writable.json
 *.bak
