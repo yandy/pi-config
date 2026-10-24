@@ -9,7 +9,7 @@
           "id": "mimo-v2.5",
           "name": "MiMo-V2.5",
           "reasoning": true,
-          "thinkingLevelMap": { "xhigh": "max" },
+          "thinkingLevelMap": { "max": "max" },
           "contextWindow": 1048576,
           "maxTokens": 131072,
           "input": ["text", "image"],
@@ -19,7 +19,7 @@
           "id": "mimo-v2.5-pro",
           "name": "MiMo-V2.5-Pro",
           "reasoning": true,
-          "thinkingLevelMap": { "xhigh": "max" },
+          "thinkingLevelMap": { "max": "max" },
           "contextWindow": 1048576,
           "maxTokens": 131072,
           "input": ["text"],
@@ -36,10 +36,10 @@
           "id": "deepseek-flash",
           "name": "DeepSeek Flash",
           "reasoning": true,
-          "thinkingLevelMap": { "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max"},
           "contextWindow": 1000000,
           "maxTokens": 384000,
           "input": ["text", "image"],
+          "thinkingLevelMap": { "minimal": null, "medium": null, "max": "max" },
           "cost": { "input": 2, "output": 8, "cacheRead": 0.04, "cacheWrite": 0 }
         }
       ]
@@ -54,7 +54,7 @@
           "name": "qwen3.8 max",
           "input": ["text", "image"],
           "reasoning": true,
-          "thinkingLevelMap": { "xhigh": "max" },
+          "thinkingLevelMap": { "max": "max" },
           "contextWindow": 1048576,
           "maxTokens": 65536,
           "cost": { "input": 12, "output": 36, "cacheRead": 1.5, "cacheWrite": 0 }
@@ -71,9 +71,9 @@
           "name": "GLM 5.3",
           "input": ["text"],
           "reasoning": true,
-          "thinkingLevelMap": { "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max"},
           "contextWindow": 1048576,
           "maxTokens": 131072,
+          "thinkingLevelMap": { "minimal": null, "low": null, "medium": null, "max": "max" },
           "cost": { "input": 8, "output": 28, "cacheRead": 2, "cacheWrite": 0 }
         },
         {
@@ -81,9 +81,9 @@
           "name": "KIMI K3",
           "input": ["text", "image"],
           "reasoning": true,
-          "thinkingLevelMap": { "off": null, "xhigh": "max" },
           "contextWindow": 1048576,
           "maxTokens": 1048576,
+          "thinkingLevelMap": { "off": null, "max": "max" },
           "cost": { "input": 20, "output": 100, "cacheRead": 2, "cacheWrite": 0 }
         }
       ]
