@@ -64,5 +64,6 @@ npx ctx7 login
 - [mediagen-cli](https://github.com/yandy/mediagen-cli)
 
 ```sh
+npm install -g @yandy0725/mediagen-cli
 # npx skills add yandy/mediagen-cli -a universal -y
 ```
