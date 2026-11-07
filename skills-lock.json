@@ -7,17 +7,23 @@
       "skillPath": "skills/find-docs/SKILL.md",
       "computedHash": "e4a9a707d8e5d575d166a175f2fec66e0a13de46597f7dbc910c735ccf01bb93"
     },
+    "mediagen": {
+      "source": "yandy/mediagen-cli",
+      "sourceType": "github",
+      "skillPath": "skills/mediagen/SKILL.md",
+      "computedHash": "c35bdc49d281549f07b8178862a59a8fcea290b02b62fc7f6b30d7d3b69df917"
+    },
     "pdf": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/pdf/SKILL.md",
-      "computedHash": "cfbc539377088ca7e44a813b30c306327385bbd973cd7a721e1743f60837dd62"
+      "computedHash": "fa780e00802ddfee539686d4fe9e5698d3df9808385b8ec2a58eb17cfb654831"
     },
     "playwright-cli": {
       "source": "microsoft/playwright-cli",
       "sourceType": "github",
       "skillPath": "skills/playwright-cli/SKILL.md",
-      "computedHash": "56941c3c0464ad22ccdf3ec975fc4bd518c5daea34b73329c232bc1f37f9a6b7"
+      "computedHash": "835a0ebe31ba7481dd23afcb14782f8ef2d4195aad44ae296ccfbc6cfaadcb3f"
     }
   }
 }

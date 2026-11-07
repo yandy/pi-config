@@ -23,7 +23,7 @@ npx skills add anthropics/skills --skill pdf docx -a universal -y
 ### 2.2 Update skills
 
 ```sh
-npx skills update -a universal
+npx skills update <skills> -p -y
 ```
 
 ### 2.3 Remove skills
@@ -59,4 +59,10 @@ playwright install chromium firefox
 ```sh
 npx ctx7 login
 # npx skills add upstash/context7 --skill find-docs -a universal -y
+```
+
+- [mediagen-cli](https://github.com/yandy/mediagen-cli)
+
+```sh
+# npx skills add yandy/mediagen-cli -a universal -y
 ```

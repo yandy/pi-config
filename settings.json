@@ -8,8 +8,7 @@
     "npm:@yandy0725/pi-coding-tools",
     "npm:@yandy0725/pi-web-tools",
     "npm:@yandy0725/pi-vision-tools",
-    "npm:@yandy0725/pi-memory",
-    "npm:@yandy0725/mediagen-cli"
+    "npm:@yandy0725/pi-memory"
   ],
   "lastChangelogVersion": "1.5.0",
   "theme": "catppuccin-mocha",
